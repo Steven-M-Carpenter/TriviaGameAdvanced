@@ -19,5 +19,10 @@ Launch the index.html file, click start, and answer the questions.  The game che
 ---
 I took the code from the Basic version and modified it for this version of the game.  The retrofit was a good exercise as it allowed me to focus on modifying the elements of the game play and flow.
 
+
+### Link
+---
+Use the link below to access the game.
+
 [Quiz Show Game](https://steven-m-carpenter.github.io/TriviaGameAdvanced/) 
 
