@@ -6,6 +6,7 @@ Launch the index.html file, click start, and answer the questions.  The game che
 
 ### Game Notes
 ---
+- This game was developed to practice the implementation of timers and intervals.
 - This application currently relies on a fixed set of questions.    
 - The game tracks correct, incorrect, and no response conditions
 - The game correctly interprets the following:
