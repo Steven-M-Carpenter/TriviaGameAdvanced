@@ -17,7 +17,7 @@ Launch the index.html file, click start, and answer the questions.  The game che
 
 ### Developer Notes
 ---
-I took the code from the Basic version and modified it for this version of the game.  The retrofit was a good exercise as it allowed me to focus on modifying the elements of the game play and flow.
+I took the code from a Basic version and modified it for this version of the game.  The retrofit was a good exercise as it allowed me to focus on modifying the elements of the game play and flow.
 
 
 ### Link
